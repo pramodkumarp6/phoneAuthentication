@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213769316506",
+    "project_id": "phoneauthentication-36126",
+    "storage_bucket": "phoneauthentication-36126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213769316506:android:8e93027924ad74f19c5723",
+        "android_client_info": {
+          "package_name": "com.pramod.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213769316506-dq0tt7rlfgkgo1ghufj4o405t4tndn76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pramod.phoneauthentication",
+            "certificate_hash": "30a598f52232843a5685252097a2b9d24a58e93b"
+          }
+        },
+        {
+          "client_id": "213769316506-soobi0bnen2rkse68ifb62eskhst7h1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eyzu1u1-DtTnWYTxF6egBxt8J5ZszCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213769316506-soobi0bnen2rkse68ifb62eskhst7h1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
